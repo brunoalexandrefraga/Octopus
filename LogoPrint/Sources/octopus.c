@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <octopus.h>
 
-void myPrintHelloMake(void) {
+void showOctopus(void) {
 
 	puts(
 "                        ___\n"
