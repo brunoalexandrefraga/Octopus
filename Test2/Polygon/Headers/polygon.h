@@ -1,0 +1,1 @@
+char *polygonType(int n);
